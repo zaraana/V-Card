@@ -22,6 +22,7 @@ body{
             .logo{
                 margin-top: 10px;
                 margin-left: 20px;
+                
                 .logo-becode{
                     width: 150px;
                     height: 50px;
@@ -134,7 +135,9 @@ body{
     .container{
         // height: 100%;
         .sidebar{
-            justify-content: space-around;
+            .logo-becode{
+                margin-left: -20px;
+            }
         .img{
             padding-left: 25px;
             .Zahra{
