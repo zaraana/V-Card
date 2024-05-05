@@ -130,6 +130,66 @@ body{
     }
 
 
+    @media only screen and (max-width: 767px) {
+    .container{
+        // height: 100%;
+        .sidebar{
+            justify-content: space-around;
+        .img{
+            padding-left: 25px;
+            .Zahra{
+                width: 160px;
+                height: 270px;
+                margin-left: 2px;
+                margin-top: 20px;
+            }
+        }
+        .infos-container{
+            margin-left: 5px;
+            .info{
+
+                h6{
+                    font-size: 10px;
+    
+                    p{
+                        font-size: 10px;
+                    }
+                }
+            }
+            }
+        }
+        .content{
+            header{
+                .menu{
+                    margin-top: 20px;
+                }
+            }
+            .main{
+                .logo-zahra{
+                    width: 70px;
+                    height: 70px;
+                    margin-left: 70px;
+                    margin-top: 50px;
+                }
+                
+                p{
+                    display: flex;
+                    flex-wrap: wrap;
+                    font-size: 9px;
+                    margin-left: 55px;
+                }
+
+                #btns{
+                margin-left: 19px;
+                    .btn1{
+                        font-size: 8px;
+                        padding: 2px;
+                    }
+                }
+            }
+        }
+    }
+}
 
 
 
