@@ -1,7 +1,7 @@
-# <div align="center">  𝕃𝕖𝕥'𝕤 𝕔𝕣𝕖𝕒𝕥𝕖 𝕞𝕪 𝕍ℂ𝕒𝕣𝕕 
-📇
 
-![nice2meetu](img/nicemeetu.gif)
+# <div align="center">  𝕃𝕖𝕥'𝕤 𝕔𝕣𝕖𝕒𝕥𝕖 𝕞𝕪 𝕍ℂ𝕒𝕣𝕕📇 
+
+<div align="center"> ![nice2meetu](img/nicemeetu.gif)
 
 # тнє αѕѕιgηємєηт
 
